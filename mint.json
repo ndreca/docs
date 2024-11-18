@@ -15,14 +15,12 @@
       "to": "#312F57"
     }
   },
-  "topbarLinks": [
-  ],
+  "topbarLinks": [],
   "topbarCtaButton": {
     "name": "Voxel Max",
     "url": "https://voxelmax.com"
   },
-  "tabs": [
-  ],
+  "tabs": [],
   "anchors": [
     {
       "name": "Community",
